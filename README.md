@@ -45,7 +45,7 @@ AI-Based Demand Forecasting {Predicts product demand and availability}
 Order Management System {Matches buyers with farmers}                                                             
 |                                                        
 GPS-Based Route Optimization {Finds efficient delivery routes}                                                      
-|
+
 Logistics and Transportation                                                                
 |                                                                            
 Product Delivery and Online Payment                                                   
